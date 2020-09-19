@@ -5,8 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:myEncryptApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Password Protector" Height="200" Width="340" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
     <Grid>
-        
+        <PasswordBox x:Name="psd_1" HorizontalAlignment="Left" Height="25" Margin="155,10,0,0" VerticalAlignment="Top" Width="156" FontSize = "16"/>
+        <Label Content="Input Your Password:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="DecryptMyPSD" Content="DecryptMyFile" HorizontalAlignment="Left" Margin="175,110,0,0" VerticalAlignment="Top" Width="100" Height="23" Click="Button_Click_1"/>
+        <Button x:Name="EncryptMyPSD" Content="EncryptMyFile" HorizontalAlignment="Left" Margin="65,110,0,0" VerticalAlignment="Top" Width="100" Height="23" Click="Button_Click_2"/>
+        <Popup x:Name="popup_1" StaysOpen="False" PopupAnimation="Scroll" PlacementTarget="{Binding ElementName= DecryptMyPSD}">
+            <TextBlock x:Name="myPopupText_1" 
+                    Background="Pink" 
+                    Foreground="White"
+                    FontSize="17" 
+                    Width="100"
+                    Block.TextAlignment ="Center"
+                    >PSD Error</TextBlock>
+        </Popup>
+
+        <Popup x:Name="popup_2" StaysOpen="False" PopupAnimation="Scroll" PlacementTarget="{Binding ElementName= EncryptMyPSD}">
+            <TextBlock x:Name="myPopupText_2" 
+                    Background="Pink" 
+                    Foreground="White"
+                    FontSize="17" 
+                    Width="100"
+                    Block.TextAlignment ="Center"
+                    >PSD Error</TextBlock>
+        </Popup>
+
     </Grid>
 </Window>
