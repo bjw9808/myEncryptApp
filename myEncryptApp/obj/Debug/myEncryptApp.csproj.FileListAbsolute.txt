@@ -1,0 +1,15 @@
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\bin\Debug\myEncryptApp.exe.config
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\bin\Debug\myEncryptApp.exe
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\bin\Debug\myEncryptApp.pdb
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\myEncryptApp.csprojAssemblyReference.cache
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\MainWindow.g.cs
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\App.g.cs
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\myEncryptApp_MarkupCompile.cache
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\myEncryptApp_MarkupCompile.lref
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\MainWindow.baml
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\myEncryptApp.g.resources
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\myEncryptApp.Properties.Resources.resources
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\myEncryptApp.csproj.GenerateResource.cache
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\myEncryptApp.csproj.CoreCompileInputs.cache
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\myEncryptApp.exe
+C:\Users\bjw98\source\repos\myEncryptApp\myEncryptApp\obj\Debug\myEncryptApp.pdb
